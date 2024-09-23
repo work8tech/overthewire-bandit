@@ -1,0 +1,6 @@
+$ ls -alps
+$ cat ./-
+
+
+
+(The filename is "-")
