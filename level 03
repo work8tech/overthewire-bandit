@@ -1,0 +1,6 @@
+$ cd inhere
+$ find . -type f
+$ cat ./...Hiding-From-You
+
+(inhere is the directory in which file is hidden)
+("find . -type f" finds the hidden files)
