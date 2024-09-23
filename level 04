@@ -1,0 +1,7 @@
+$ ls
+$ cd inhere
+$ ls
+$ find . -type f| xargs file
+$ cat ./-file07
+
+("xargs file" returns the type of contents in the file, like data or ASCII text which is the human readable type.)
