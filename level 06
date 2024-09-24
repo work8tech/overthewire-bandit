@@ -1,0 +1,4 @@
+$ find / -type f -user bandit7 -group bandit6 -size 33c
+$ cat /var/lib/dpkg/info/bandit7.password
+
+(/var/lib/dpkg/info/bandit7.password is the file directory which doesn't say permission denied next to it)
